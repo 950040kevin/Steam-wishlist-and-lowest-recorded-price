@@ -1,5 +1,5 @@
 # Steam-wishlist-and-lowest-recorded-price
-使用 Github Action 定時執行 python，將 Steam 願望清單的特價中遊戲與其歷史最低價做統整，傳送到 Discord。
+這是一個 Steam 願望清單特價通知 Bot，使用 Github Action 定時執行 python，將 Steam 願望清單的特價中遊戲與其歷史最低價做統整，傳送到 Discord。
 
 # 教學
 1.新建一個 Github Repositories，並將所有檔案依照原先路徑上傳 
