@@ -9,5 +9,6 @@
 3.在 Repositories 的 Settings -> Secrets and variable -> Actions 建立 Secrets：
   - Name: DISCORD_WEBHOOK_URL, Secret: **輸入 Discord webhook 網址**
   - Name: ZENROWS_PROXY, Secret: **輸入 proxy 引號中的內容**
+    - 範例：**proxy = '0c0d35a027d4691f086716f7ba3f6###########'**，在 Secret 中輸入 **0c0d35a027d4691f086716f7ba3f6###########**
 
 4.將 schedule.yml 第5行的 **# 字號**刪除，並把自動執行時間改成自己想要的時段
