@@ -10,4 +10,4 @@
   - Name: DISCORD_WEBHOOK_URL, Secret: **輸入 Discord webhook 網址**
   - Name: ZENROWS_PROXY, Secret: **輸入 proxy 引號中的內容**
 
-4.將 schedule.yml 第5行的 **#** 註解刪除，並把自動執行時間改成自己想要的時段
+4.將 schedule.yml 第5行的 **# 字號**刪除，並把自動執行時間改成自己想要的時段
