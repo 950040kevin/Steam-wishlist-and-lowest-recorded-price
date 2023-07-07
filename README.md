@@ -4,10 +4,10 @@
 # 教學
 1.將所有檔案複製到自己的 Github Repositories
 
-2.將 Steam wishlist 改成公開，並把 main.py 第31行的網址進行更改
+2.將 Steam 的**個人檔案**與**遊戲資料**設為公開，並把 main.py 第31行的網址改成自己的願望清單網址
 
 3.在 Repositories 的 Settings -> Secrets and variable -> Actions 建立 Secrets：
   - Name: DISCORD_WEBHOOK_URL, Secret: **輸入 Discord webhook 網址**
   - Name: ZENROWS_PROXY, Secret: **輸入 proxy 引號中的內容**
 
-4.將 schedule.yml 第5行的自動執行時間改成想要的時段
+4.將 schedule.yml 第5行的 **#** 註解刪除，並把自動執行時間改成自己想要的時段
