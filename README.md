@@ -13,4 +13,4 @@
   - Name: ***ZENROWS_PROXY***, Secret: ***輸入 ZenRowsClient 引號中的內容***
     - 範例：**ZenRowsClient("0c0d35a027d4691f086716f7ba3f6###########")**，在 Secret 中輸入 **0c0d35a027d4691f086716f7ba3f6###########**
 
-5.將 schedule.yml 第5行的 **# 字號**刪除，並把自動執行時間改成自己想要的時段
+5.將 schedule.yml 第5行的 **# 字號**刪除，並把自動執行時間改成自己想要的時段(注意為 UTC 時區)
